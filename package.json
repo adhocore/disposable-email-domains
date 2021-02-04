@@ -10,7 +10,7 @@
     "prod": "node add.js && mocha || true"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.3.0",
     "chai-sorted": "^0.1.0",
     "lodash": "^4.17.15",
     "mocha": "^6.2.1",
